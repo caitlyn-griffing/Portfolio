@@ -66,7 +66,6 @@ section {
   display: none;
   -webkit-transform: translateY(0) scale(1);
           transform: translateY(0) scale(1);
-  background-color: red;
 }
 
 .sec2 {
@@ -95,6 +94,10 @@ section {
   -webkit-transform: translateY(0) scale(1);
           transform: translateY(0) scale(1);
   background-color: blueviolet;
+}
+
+.active {
+  display: block;
 }
 
 .controls {
