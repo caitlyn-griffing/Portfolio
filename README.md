@@ -33,11 +33,13 @@ This is a short and sweet little bio about me.
 
 ## Images
 
-![Image1](/img/MerakiFS.png)
-![Image2](/img/MerakiFS.png)
-![Image3](/img/MerakiFS.png)
-![Image4](/img/MerakiFS.png)
-![Image5](/img/MerakiFS.png)
+![Image1](/img/port/portfolioSS1web.png)
+![Image2](/img/port/portfolioSS4web.png)
+![Image3](/img/port/portfolioSS2web.png)
+![Image4](/img/port/portfolioSS3web.png)
+![Image5](/img/port/portfolioSS1pad.png)
+![Image6](/img/port/portfolioSS1mobile.png)
+![Image7](/img/port/portfolioSS2mobile.png)
 
 ---
 
