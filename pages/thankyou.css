@@ -1,3 +1,7 @@
+* {
+    background-color: #111527;
+}
+
 .thankyou-ctn {
     display: flex;
     flex-direction: column;
@@ -7,6 +11,7 @@
 
 h1 {
     font-size: 4rem;
+    color: #ff30a4;
 }
 
 p {
