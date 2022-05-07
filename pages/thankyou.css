@@ -2,7 +2,7 @@
 }
 
 body {
-    background: url(/img/daisyFlower.webp);
+    background: url(/pages/daisyFlower.webp);
     background-color: rgba(18, 22, 38, .7);
     background-size: cover;
     background-blend-mode: multiply;
