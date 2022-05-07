@@ -1,5 +1,12 @@
 * {
-    background-color: #111527;
+}
+
+body {
+    background: url(/img/daisyFlower.webp);
+    background-color: rgba(18, 22, 38, .7);
+    background-size: cover;
+    background-blend-mode: multiply;
+    height: 100vh;
 }
 
 .thankyou-ctn {
@@ -10,10 +17,18 @@
 }
 
 h1 {
-    font-size: 4rem;
+    font-size: 7rem;
     color: #ff30a4;
 }
 
+.checkmark i {
+    color: #ff30a4;
+    width: 3rem;
+    height: 3rem;
+}
+
 p {
-    font-size: 1.5rem;
+    padding-top: 2rem;
+    font-size: 3rem;
+    color: #ffffff;
 }
