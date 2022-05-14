@@ -2,7 +2,7 @@
 }
 
 body {
-    background: url(/pages/daisyFlower\ copy.png);
+    background: url(pages/daisy.png);
     background-color: rgba(18, 22, 38, .7);
     background-size: cover;
     background-blend-mode: multiply;
