@@ -2,10 +2,11 @@
 }
 
 body {
-    background: url(pages/daisy.png);
+    background: url(./daisy.png);
     background-color: rgba(18, 22, 38, .7);
     background-size: cover;
     background-blend-mode: multiply;
+    background-position: center;
     height: 100vh;
 }
 
